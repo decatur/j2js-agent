@@ -1,3 +1,3 @@
-#j2js-compiler
+#j2js-agent
 
-A Java Bytecode to JavaScript Cross-Compiler.
+User Agent (Browser) specific code.
