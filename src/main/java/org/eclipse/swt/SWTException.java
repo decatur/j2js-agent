@@ -2,8 +2,6 @@ package org.eclipse.swt;
 
 /**
  * This runtime exception is thrown whenever a recoverable error occurs internally in SWT.
- *
- * @author j2js.com
  */
 public class SWTException extends RuntimeException {
 

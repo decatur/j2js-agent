@@ -12,14 +12,12 @@ import org.w3c.dom5.html.HTMLElement;
  * Utility class to bind a event listener to a DOM element.
  * <br/>Usage:
  * <pre>
-        new AbstractEventListener(document, "ok") {
-            public void handleEvent(Event evt) {
-                // do something.
-            }
-        };
+ *       new AbstractEventListener(document, "ok") {
+ *           public void handleEvent(Event evt) {
+ *               // do something.
+ *          }
+ *       };
  * </pre>
- * 
- * @author j2js.com
  */
 public abstract class AbstractEventListener implements EventListener {     
     

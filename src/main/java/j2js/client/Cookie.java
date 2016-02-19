@@ -1,11 +1,5 @@
 /*
- * Copyright (c) 2007 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2007 Wolfgang Kuehn
  */
 
 package j2js.client;
@@ -21,8 +15,6 @@ import org.w3c.dom5.html.HTMLDocument;
  * discriminating cookies by path or sub-domain. If cookies are send from the
  * server to the browser via http, it does only support those cookies send
  * with a path of '/'.
- *  
- * @author j2js.com
  */
 public class Cookie {
     

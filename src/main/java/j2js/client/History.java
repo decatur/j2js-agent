@@ -1,11 +1,5 @@
 /*
- * Copyright (c) 2005 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2005 Wolfgang Kuehn
  */
 
 package j2js.client;
@@ -13,8 +7,6 @@ package j2js.client;
 /**
  * Through this interface the user agent has restricted access to the client's
  * past navigations.
- * 
- * @author j2js
  */
 public interface History {
     

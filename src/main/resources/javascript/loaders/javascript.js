@@ -1,6 +1,6 @@
 /**
  * JavaScript Core Runtime Library.
- * Copyright (c) 2005-2007 j2js.com
+ * Copyright (c) 2005-2007 Wolfgang Kuehn
  */
  
 var j2js = {};

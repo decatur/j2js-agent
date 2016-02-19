@@ -20,8 +20,6 @@ import org.w3c.dom5.html.HTMLTableElement;
  * A simple parser for a Wiki-style text markup. The supported markup is a subset of
  * the markup used in Confluence by {@link <a href="http://www.atlassian.com">atlassian</a>}.
  * See {@link <a href="../../../../powerdash/wikiformat.html">wikiformat</a>} for examples.
- * 
- * @author j2js.com
  */
 public class WikiMarkupParser {
     

@@ -1,11 +1,5 @@
 /*
- * Copyright (c) 2005 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2005 Wolfgang Kuehn
  */
 
 package j2js.net;
@@ -17,8 +11,6 @@ package j2js.net;
  * The interface adheres as much as posible to the <quote>The XMLHttpRequest Object</quote> W3C Working Draft 05 April 2006.
  * http://www.w3.org/TR/XMLHttpRequest
  * </p>
- * 
- * @author j2js.com
  */
 public interface HttpRequest {
     

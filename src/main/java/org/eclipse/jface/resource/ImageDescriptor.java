@@ -8,8 +8,6 @@ import org.w3c.dom5.html.HTMLImageElement;
 
 /**
  * An image descriptor is an object that knows how to create an SWT image.
- * 
- * @author j2js.com
  */
 public class ImageDescriptor {
 

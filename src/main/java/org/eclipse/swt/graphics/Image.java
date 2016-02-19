@@ -4,8 +4,6 @@ import org.w3c.dom5.html.HTMLImageElement;
 
 /**
  * Instances of this class are graphics which have been prepared for display on a specific device.
- * 
- * @author j2js.com
  */
 public class Image {
     /**

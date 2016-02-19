@@ -4,8 +4,6 @@ package j2js.net;
 /**
  * Listener which can be registered with an <code>XMLHttpRequest</code> Object to be invoked
  * when readyState changes value.
- * 
- * @author j2js.com
  */
 public interface ReadyStateChangeListener {
     

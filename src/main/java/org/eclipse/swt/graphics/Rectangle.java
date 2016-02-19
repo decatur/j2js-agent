@@ -2,8 +2,6 @@ package org.eclipse.swt.graphics;
 
 /**
  * Instances of this class represent rectangular areas in an (x, y) coordinate system.
- * 
- * @author j2js.com
  */
 public class Rectangle {
 

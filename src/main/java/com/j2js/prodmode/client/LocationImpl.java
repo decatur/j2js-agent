@@ -1,11 +1,5 @@
 /*
- * Copyright (c) 2011 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2011 Wolfgang Kuehn
  */
 
 package com.j2js.prodmode.client;
@@ -17,8 +11,6 @@ import javascript.ScriptHelper;
 
 /**
  * @see j2js.client.Location
- * 
- * @author j2js.com
  */
 public class LocationImpl implements Location {
 

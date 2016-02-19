@@ -3,8 +3,6 @@ package org.eclipse.swt.graphics;
 
 /**
  * Instances of this class manage the operating system resources that implement SWT's RGB color model.
- * 
- * @author j2js.com
  */
 public class Color {
 

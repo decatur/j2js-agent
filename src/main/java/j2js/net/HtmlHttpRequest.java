@@ -1,11 +1,5 @@
 /*
- * Copyright (c) 2005 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2005 Wolfgang Kuehn
  */
 
 package j2js.net;
@@ -22,8 +16,6 @@ import org.w3c.dom5.views.Window;
  * Subclasses of {@link HtmlHttpRequest} are independed of the avaliablility of the {@link j2js.net.XMLHttpRequest}
  * object, and will also work in environments with strict security policies.
  * The awkward same-origin security restriction is not enforced.
- * 
- * @author j2js.com
  */
 public abstract class HtmlHttpRequest implements HttpRequest {
     

@@ -3,8 +3,6 @@ package org.eclipse.swt;
 /**
  * This class provides access to a small number of SWT system-wide methods,
  * and in addition defines the public constants provided by SWT.
- * 
- * @author j2js.com
  */
 public class SWT {
 
