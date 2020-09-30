@@ -1,3 +1,5 @@
+⚠️ Deprecated. See [j2js-compiler](https://github.com/decatur/j2js-compiler)
+
 #j2js-agent
 
 User Agent (Browser) specific code.
